@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UbaldiMatrici", "UbaldiMatrici.csproj", "{4F475C76-503A-48C2-8907-3B414619A96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMatrice", "..\ClassMatrice\ClassMatrice.csproj", "{6AA564B7-A87E-43B5-80E5-21F629A21853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F475C76-503A-48C2-8907-3B414619A96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F475C76-503A-48C2-8907-3B414619A96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F475C76-503A-48C2-8907-3B414619A96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F475C76-503A-48C2-8907-3B414619A96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA564B7-A87E-43B5-80E5-21F629A21853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA564B7-A87E-43B5-80E5-21F629A21853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA564B7-A87E-43B5-80E5-21F629A21853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA564B7-A87E-43B5-80E5-21F629A21853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E83DC75-67EE-4E94-B0C8-E97A7E2AECAD}
+	EndGlobalSection
+EndGlobal
